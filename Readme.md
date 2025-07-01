@@ -40,13 +40,14 @@ A beautiful and interactive movie recommendation system built using **Python**, 
 2. **Create Virtual Environment (Optional but Recommended)**
 
     python -m venv env
+   
     source env/bin/activate  # On Windows: env\Scripts\activate
-    Install Requirements
-
+   
     pip install -r requirements.txt
+   
     ❗ difflib is part of Python’s standard library, so do not try to install it via pip.
 
-3. **🚀Run the App**
+4. **🚀Run the App**
     python recommend_system.py
 
 
