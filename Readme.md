@@ -35,8 +35,7 @@ A beautiful and interactive movie recommendation system built using **Python**, 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-pygame.git
-   cd movie-recommender-pygame
+   git clone https://github.com/NehaSindhwani01/Bollywood_Movie_Recommendation_System.git
 
 2. **Create Virtual Environment (Optional but Recommended)**
 
@@ -48,7 +47,7 @@ A beautiful and interactive movie recommendation system built using **Python**, 
     ❗ difflib is part of Python’s standard library, so do not try to install it via pip.
 
 3. **🚀Run the App**
-    python movie_recommender.py
+    python recommend_system.py
 
 
 🧠 How It Works
